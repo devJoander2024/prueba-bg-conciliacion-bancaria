@@ -8,13 +8,12 @@ import { environment } from '../../../environment'; // Importa las variables de 
 })
 export class ConciliacionService {
   private baseUrl = environment.apiUrl; // Usa la variable de entorno
-
   constructor(private http: HttpClient) {}
 
   registros(): Observable<any> {
-    return this.http.get(`${this.baseUrl}/registros`);
+    return this.http.get<any>(`${this.baseUrl}/Conciliacion/registros`);
   }
   movimientos(): Observable<any> {
-    return this.http.get(`${this.baseUrl}/movimientos`);
+    return this.http.get<any>(`${this.baseUrl}/Conciliacion/movimientos`);
   }
 }

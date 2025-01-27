@@ -11,6 +11,22 @@
   },
   {
     "ContainingType": "WebAPI_Walther_Olivo.Controllers.ConciliacionController",
+    "Method": "Login",
+    "RelativePath": "api/Conciliacion/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "WebAPI_Walther_Olivo.Dtos.LoginReq",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI_Walther_Olivo.Controllers.ConciliacionController",
     "Method": "GetMovimientos",
     "RelativePath": "api/Conciliacion/movimientos",
     "HttpMethod": "GET",

@@ -29,4 +29,15 @@
 
     }
 
+    public class DiscrepanciaResuelta
+    {
+        public int Id { get; set; }
+        public int RegistroId { get; set; }
+        public string Descripcion { get; set; }
+        public DateTime Fecha { get; set; }
+        public decimal Monto { get; set; }
+        public bool Resuelta { get; set; } = true; // Este campo indica que ya está resuelta.
+    }
+
+
 }

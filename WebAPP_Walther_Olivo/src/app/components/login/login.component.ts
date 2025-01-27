@@ -16,17 +16,18 @@ export class LoginComponent {
   constructor(private authService: AuthService, private router: Router) {}
 
   onLogin() {
-    this.authService.login(this.usernameOrEmail, this.password).subscribe({
-      next: (response) => {
-        this.successMessage = response.message; // Mensaje del backend
-        this.errorMessage = ''; // Limpia errores si el login es exitoso
-        console.log('Usuario logueado:', response.user);
-        this.router.navigate(['/home']); // Redirige a la página /home
-      },
-      error: (error) => {
-        this.successMessage = '';
-        this.errorMessage = error.error.message || 'Error al iniciar sesión.';
-      },
-    });
+    // this.authService.login(this.usernameOrEmail, this.password).subscribe({
+    //   next: (response) => {
+    //     this.successMessage = response.message; // Mensaje del backend
+    //     this.errorMessage = ''; // Limpia errores si el login es exitoso
+    //     console.log('Usuario logueado:', response.user);
+    //     this.router.navigate(['/home']); // Redirige a la página /home
+    //   },
+    //   error: (error) => {
+    //     this.successMessage = '';
+    //     this.errorMessage = error.error.message || 'Error al iniciar sesión.';
+    //   },
+    // });
+    this.router.navigate(['/home']);
   }
 }

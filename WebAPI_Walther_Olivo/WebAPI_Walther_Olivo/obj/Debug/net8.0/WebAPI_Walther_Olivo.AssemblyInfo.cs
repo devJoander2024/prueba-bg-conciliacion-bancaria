@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPI_Walther_Olivo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8105f3c8b44005f303e244744ec32e34f6edbdae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dac350d384aae480289984619819943c11f10959")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPI_Walther_Olivo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPI_Walther_Olivo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

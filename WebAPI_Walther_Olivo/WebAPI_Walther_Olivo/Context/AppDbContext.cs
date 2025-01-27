@@ -9,6 +9,8 @@ namespace WebAPI_Walther_Olivo.Context
         public DbSet<RegistroContable> RegistrosContables { get; set; }
         public DbSet<MovimientoBancario> MovimientosBancarios { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<DiscrepanciaResuelta> DiscrepanciasResueltas { get; set; }
+
 
 
     }

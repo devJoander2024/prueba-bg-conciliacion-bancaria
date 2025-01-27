@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using WebAPI_Walther_Olivo.Context;
 using WebAPI_Walther_Olivo.Dtos;
+using WebAPI_Walther_Olivo.Entities;
 
 namespace WebAPI_Walther_Olivo.Controllers
 {
@@ -25,9 +26,9 @@ namespace WebAPI_Walther_Olivo.Controllers
         }
 
         [HttpGet("movimientos")]
-        public IActionResult GetMovimientos()
+        public IActionResult GetMovimientos([FromQuery] string date)
         {
-            var movimientos = _context.MovimientosBancarios.ToList();
+            var movimientos = _context.MovimientosBancarios.ToList().Where(rc => rc.Fecha == DateTime.Parse(date));
             return Ok(movimientos);
         }
 
@@ -38,6 +39,7 @@ namespace WebAPI_Walther_Olivo.Controllers
             var registros = _context.RegistrosContables.ToList();
             var movimientos = _context.MovimientosBancarios.ToList();
 
+            // Identificar las discrepancias entre los registros contables y los movimientos bancarios
             var discrepancias = registros
                 .Where(rc => !movimientos.Any(mb =>
                     mb.Fecha == rc.Fecha &&
@@ -45,18 +47,43 @@ namespace WebAPI_Walther_Olivo.Controllers
                     mb.Descripcion == rc.Descripcion))
                 .ToList();
 
+            // Agregar las discrepancias a la tabla de Discrepancias Resueltas
+            foreach (var discrepancia in discrepancias)
+            {
+                _context.DiscrepanciasResueltas.Add(new DiscrepanciaResuelta
+                {
+                    RegistroId = discrepancia.Id,
+                    Descripcion = discrepancia.Descripcion,
+                    Fecha = discrepancia.Fecha,
+                    Monto = discrepancia.Monto
+                });
+            }
+
+            // Guardar los cambios en la base de datos
+            _context.SaveChanges();
+
             return Ok(discrepancias);
         }
 
-        // 3. Marcar discrepancias como resueltas (POST)
+        // 3. Marcar discrepancias como resueltas (sin eliminar registros)
         [HttpPost("resolver")]
         public IActionResult ResolverDiscrepancia([FromBody] int id)
         {
             var registro = _context.RegistrosContables.FirstOrDefault(r => r.Id == id);
             if (registro != null)
             {
-                _context.RegistrosContables.Remove(registro);
+                // Al resolver la discrepancia, la agregamos a la tabla de Discrepancias Resueltas
+                _context.DiscrepanciasResueltas.Add(new DiscrepanciaResuelta
+                {
+                    RegistroId = registro.Id,
+                    Descripcion = registro.Descripcion,
+                    Fecha = registro.Fecha,
+                    Monto = registro.Monto
+                });
+
+                // Guardar los cambios en la base de datos
                 _context.SaveChanges();
+
                 return Ok("Discrepancia resuelta.");
             }
 

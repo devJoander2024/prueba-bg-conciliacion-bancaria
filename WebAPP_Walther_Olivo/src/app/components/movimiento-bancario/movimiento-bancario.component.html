@@ -7,9 +7,9 @@
         <img src="https://www.bancoguayaquil.com/static/1f7d8003e7b7de4c0244b5d4116dd882/63159/logo_bg_white.png" alt="Banco de Guayaquil" />
       </a>
       <ul class="navbar-menu">
-        <li><a href="/home">Home</a></li>
-        <li><a href="/registro-contable">Registro Contable</a></li>
-        <li><a href="/movimiento-bancario">Movimiento Bancario</a></li>
+        <li><a routerLink="/home">Home</a></li>
+        <li><a routerLink="/registro-contable">Registro Contable</a></li>
+        <li><a routerLink="/movimiento-bancario">Movimiento Bancario</a></li>
       </ul>
     </nav>
     <!-- Mensajes de error o éxito -->
@@ -18,25 +18,31 @@
     <div *ngIf="successMessage" class="alert alert-success">
     </div>
   
- <!-- Tabla de movimientos contables -->
+ <!-- Tabla de movimientos bancarios -->
 <table *ngIf="movimientos && movimientos.length > 0" class="table table-striped">
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Descripción</th>
-        <th>Fecha</th>
-        <th>Monto</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr *ngFor="let registro of movimientos">
-        <td>{{ registro.id }}</td>
-        <td>{{ registro.descripcion }}</td>
-        <td>{{ registro.fecha | date: 'short' }}</td>
-        <td>{{ registro.monto | currency }}</td>
-      </tr>
-    </tbody>
-  </table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Descripción</th>
+      <th>Fecha</th>
+      <th>Monto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let movimiento of movimientos">
+      <td>{{ movimiento.id }}</td>
+      <td>{{ movimiento.descripcion }}</td>
+      <td>{{ movimiento.fecha | date: 'short' }}</td>
+      <td>{{ movimiento.monto | currency }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Mensaje si no hay movimientos -->
+<div *ngIf="movimientos && movimientos.length === 0">
+  No hay movimientos disponibles.
+</div>
+
   
   </div>
   

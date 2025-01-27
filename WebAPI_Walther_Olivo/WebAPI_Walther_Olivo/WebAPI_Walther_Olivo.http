@@ -1,0 +1,6 @@
+@WebAPI_Walther_Olivo_HostAddress = http://localhost:5074
+
+GET {{WebAPI_Walther_Olivo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

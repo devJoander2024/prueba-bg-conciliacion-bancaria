@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D240701C-706C-4FC3-BFD5-70300181FC9F}|TestProject1\\WebAPI_Walther_Olivo_Test.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\testproject1\\conciliacioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240701C-706C-4FC3-BFD5-70300181FC9F}|TestProject1\\WebAPI_Walther_Olivo_Test.csproj|solutionrelative:testproject1\\conciliacioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\controllers\\conciliacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\controllers\\conciliacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\webapi_walther_olivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\webapi_walther_olivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\webapi_walther_olivo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\webapi_walther_olivo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,36 +39,16 @@
       "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\migrations\\20250127191129_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\entities\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\entities\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Migrations\\20250127211235_Third Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI_Walther_Olivo\\Migrations\\20250127211235_Third Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\webapi_walther_olivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\webapi_walther_olivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\webapi_walther_olivo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\webapi_walther_olivo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\migrations\\20250127192518_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\migrations\\20250127192518_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\webapi_walther_olivo\\webapi_walther_olivo\\migrations\\20250127211235_third migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C1A0BC-6F89-4A51-9DE3-9B9B973EFFA7}|WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj|solutionrelative:webapi_walther_olivo\\migrations\\20250127211235_third migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,66 +67,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConciliacionController.cs",
-              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Controllers\\ConciliacionController.cs",
-              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Controllers\\ConciliacionController.cs",
-              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Controllers\\ConciliacionController.cs",
-              "RelativeToolTip": "WebAPI_Walther_Olivo\\Controllers\\ConciliacionController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Program.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Program.cs",
+              "RelativeToolTip": "WebAPI_Walther_Olivo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T19:15:27.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250127191129_Initial Migration.cs",
-              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Migrations\\20250127191129_Initial Migration.cs",
-              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Migrations\\20250127191129_Initial Migration.cs",
-              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Migrations\\20250127191129_Initial Migration.cs",
-              "RelativeToolTip": "WebAPI_Walther_Olivo\\Migrations\\20250127191129_Initial Migration.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T19:11:30.11Z",
+              "WhenOpened": "2025-01-28T19:37:29.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "WebAPI_Walther_Olivo\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T19:04:03.957Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Dockerfile",
+              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Dockerfile",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Dockerfile",
+              "RelativeToolTip": "WebAPI_Walther_Olivo\\Dockerfile",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T19:18:51.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Entities.cs",
-              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Entities\\Entities.cs",
-              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Entities\\Entities.cs",
-              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Entities\\Entities.cs",
-              "RelativeToolTip": "WebAPI_Walther_Olivo\\Entities\\Entities.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvw0AAAAYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ConciliacionControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\TestProject1\\ConciliacionControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\ConciliacionControllerTests.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\TestProject1\\ConciliacionControllerTests.cs",
+              "RelativeToolTip": "TestProject1\\ConciliacionControllerTests.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwCcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T19:05:00.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Dtos.cs",
-              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Dtos\\Dtos.cs",
-              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Dtos\\Dtos.cs",
-              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Dtos\\Dtos.cs",
-              "RelativeToolTip": "WebAPI_Walther_Olivo\\Dtos\\Dtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T19:31:46.327Z",
+              "WhenOpened": "2025-01-28T16:03:10.1Z",
               "EditorCaption": ""
             },
             {
@@ -133,23 +111,82 @@
               "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\appsettings.json",
               "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\appsettings.json",
               "RelativeToolTip": "WebAPI_Walther_Olivo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T19:07:06.119Z",
+              "WhenOpened": "2025-01-27T19:07:06.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConciliacionController.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Controllers\\ConciliacionController.cs",
+              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Controllers\\ConciliacionController.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Controllers\\ConciliacionController.cs",
+              "RelativeToolTip": "WebAPI_Walther_Olivo\\Controllers\\ConciliacionController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:28:51.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebAPI_Walther_Olivo.http",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.http",
+              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.http",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.http",
+              "RelativeToolTip": "WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-27T18:59:27.8Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Program.cs",
-              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Program.cs",
-              "RelativeToolTip": "WebAPI_Walther_Olivo\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Title": "WebAPI_Walther_Olivo.csproj",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj",
+              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj",
+              "RelativeToolTip": "WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T18:59:31.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Dtos\\Dtos.cs",
+              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Dtos\\Dtos.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Dtos\\Dtos.cs",
+              "RelativeToolTip": "WebAPI_Walther_Olivo\\Dtos\\Dtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T18:59:26.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T19:31:46.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebAPI_Walther_Olivo\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:04:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250127191129_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Migrations\\20250127191129_Initial Migration.cs",
+              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Migrations\\20250127191129_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Migrations\\20250127191129_Initial Migration.cs",
+              "RelativeToolTip": "WebAPI_Walther_Olivo\\Migrations\\20250127191129_Initial Migration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:11:30.11Z"
             },
             {
               "$type": "Document",
@@ -165,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "20250127211235_Third Migration.cs",
               "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\Migrations\\20250127211235_Third Migration.cs",
               "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\Migrations\\20250127211235_Third Migration.cs",
@@ -173,32 +210,7 @@
               "RelativeToolTip": "WebAPI_Walther_Olivo\\Migrations\\20250127211235_Third Migration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T21:12:35.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WebAPI_Walther_Olivo.csproj",
-              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj",
-              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj",
-              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj",
-              "RelativeToolTip": "WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-27T18:59:31.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WebAPI_Walther_Olivo.http",
-              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.http",
-              "RelativeDocumentMoniker": "WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.http",
-              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\prueba21012025\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.http",
-              "RelativeToolTip": "WebAPI_Walther_Olivo\\WebAPI_Walther_Olivo.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-27T18:59:27.8Z"
+              "WhenOpened": "2025-01-27T21:12:35.422Z"
             }
           ]
         }

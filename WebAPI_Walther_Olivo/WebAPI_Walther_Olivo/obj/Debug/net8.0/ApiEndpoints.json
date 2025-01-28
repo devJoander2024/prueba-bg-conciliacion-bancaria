@@ -43,7 +43,7 @@
   },
   {
     "ContainingType": "WebAPI_Walther_Olivo.Controllers.ConciliacionController",
-    "Method": "GetRegistros",
+    "Method": "GetRegisstros",
     "RelativePath": "api/Conciliacion/registros",
     "HttpMethod": "GET",
     "IsController": true,

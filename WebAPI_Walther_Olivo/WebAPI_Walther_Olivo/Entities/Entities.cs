@@ -26,7 +26,6 @@
         public string Password { get; set; }
         public int Edad { get; set; }
 
-
     }
 
     public class DiscrepanciaResuelta

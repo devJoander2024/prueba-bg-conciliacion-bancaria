@@ -127,6 +127,7 @@ C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Wa
 C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Walther_Olivo\WebAPI_Walther_Olivo\obj\Debug\net8.0\WebAPI_Walther_Olivo.csproj.CoreCompileInputs.cache
 C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Walther_Olivo\WebAPI_Walther_Olivo\obj\Debug\net8.0\WebAPI_Walther_Olivo.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Walther_Olivo\WebAPI_Walther_Olivo\obj\Debug\net8.0\WebAPI_Walther_Olivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Walther_Olivo\WebAPI_Walther_Olivo\obj\Debug\net8.0\WebAPI_Walther_Olivo.sourcelink.json
 C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Walther_Olivo\WebAPI_Walther_Olivo\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Walther_Olivo\WebAPI_Walther_Olivo\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Walther_Olivo\WebAPI_Walther_Olivo\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI_Walther_Olivo.Microsoft.AspNetCore.StaticWebAssets.props
@@ -141,4 +142,3 @@ C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Wa
 C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Walther_Olivo\WebAPI_Walther_Olivo\obj\Debug\net8.0\WebAPI_Walther_Olivo.pdb
 C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Walther_Olivo\WebAPI_Walther_Olivo\obj\Debug\net8.0\WebAPI_Walther_Olivo.genruntimeconfig.cache
 C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Walther_Olivo\WebAPI_Walther_Olivo\obj\Debug\net8.0\ref\WebAPI_Walther_Olivo.dll
-C:\Users\wolivo\Documents\wolivo\sasf\perfil-bg\pruebas\prueba21012025\WebAPI_Walther_Olivo\WebAPI_Walther_Olivo\obj\Debug\net8.0\WebAPI_Walther_Olivo.sourcelink.json

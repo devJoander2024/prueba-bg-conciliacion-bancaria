@@ -19,7 +19,7 @@ namespace WebAPI_Walther_Olivo.Controllers
 
         // 1. Consultar registros contables y movimientos bancarios
         [HttpGet("registros")]
-        public IActionResult GetRegistros()
+        public IActionResult GetRegisstros()
         {
             var registros = _context.RegistrosContables.ToList();
             return Ok(registros);
